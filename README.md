@@ -1,6 +1,6 @@
 # NLW DoctorCare 
 
-![preview](./.github/preview.png)
+![preview](preview.png)
 
 > Trilha Explorer
 
